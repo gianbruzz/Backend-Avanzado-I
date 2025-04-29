@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2,
+    "title": "Jean Slim Mujer",
+    "description": "Jean azul oscuro ajustado de alta calidad.",
+    "price": 20999,
+    "thumbnail": [
+      "uploads/jean-slim-mujer.jpg"
+    ],
+    "code": "JEA002",
+    "stock": 15,
+    "status": true,
+    "category": "Mujer"
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas Urbanas Unisex",
+    "description": "Zapatillas cómodas y resistentes para uso diario.",
+    "price": 28999,
+    "thumbnail": [
+      "uploads/zapatillas-urbanas.jpg"
+    ],
+    "code": "ZAP003",
+    "stock": 30,
+    "status": true,
+    "category": "Calzado"
+  },
+  {
+    "id": 4,
+    "title": "Campera de Invierno Hombre",
+    "description": "Campera térmica impermeable ideal para bajas temperaturas.",
+    "price": 49999,
+    "thumbnail": [
+      "uploads/campera-invierno-hombre.jpg"
+    ],
+    "code": "CAM004",
+    "stock": 10,
+    "status": true,
+    "category": "Abrigos"
+  },
+  {
+    "id": 5,
+    "title": "Vestido de Fiesta Mujer",
+    "description": "Vestido elegante de noche, disponible en varios colores.",
+    "price": 38999,
+    "thumbnail": [
+      "uploads/vestido-fiesta-mujer.jpg"
+    ],
+    "code": "VES005",
+    "stock": 8,
+    "status": true,
+    "category": "Mujer"
+  }
+]
